@@ -396,7 +396,6 @@ const Layout = ({ userType, onLogout }: LayoutProps) => {
         `}
         >
           <div className="flex h-full flex-col">
-            {/* Logo */}
             <div className="hidden lg:flex h-16 items-center gap-2 px-6 border-b border-border">
               <Heart className="h-8 w-8 text-primary" />
               <span className="font-bold font-medical text-xl">MedConnect</span>
@@ -465,7 +464,6 @@ const Layout = ({ userType, onLogout }: LayoutProps) => {
           </div>
         </aside>
 
-        {/* Mobile Overlay */}
         {isSidebarOpen && (
           <div
             className="fixed inset-0 z-40 bg-black/50 lg:hidden"

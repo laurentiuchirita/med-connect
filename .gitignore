@@ -6,11 +6,38 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
+bun-debug.log*
 
 node_modules
 dist
 dist-ssr
 *.local
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Firebase
+.firebase/
+.firebaserc
+firebase-debug.log*
+firestore-debug.log*
+ui-debug.log*
+
+# Testing
+coverage/
+.nyc_output/
+
+# Build artifacts
+build/
+.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
 
 # Editor directories and files
 .vscode/*
@@ -22,3 +49,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+*~
+
+# Temporary files
+*.tmp
+*.temp
+.cache

@@ -1,5 +1,5 @@
 Project for ANC junior web dev acreditation.
-You are not allowed to pull this project.
+You are not allowed to download or clone this project.
 
 LogIn Information For Patitents And Doctors
 

@@ -1,4 +1,5 @@
 Project for ANC junior web dev acreditation.
+You are not allowed to pull this project.
 
 LogIn Information For Patitents And Doctors
 
@@ -35,3 +36,5 @@ fullName: Andrei Radu
 email: cristina.marin@yahoo.com,
 password: patient123,
 fullName: Cristina Marin
+
+All emails are fictional and should be used only inside the project for demo use. Any resamble with real names and emails are coincidental.
